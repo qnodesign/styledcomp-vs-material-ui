@@ -23,7 +23,7 @@ const App = ({ classes }) => {
         Hello CodeSandbox
       </Typography>
       <Typography variant="title" className={classes.padding20}>
-        Start editing to see some magic happen!
+        Start editing to see some magic happ 0en!
       </Typography>
       <Grid container spacing={8}>
         <Grid item xs={6}>
